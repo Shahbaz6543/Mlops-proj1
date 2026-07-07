@@ -143,4 +143,4 @@
 34. You can also do model training on /training route 
 mongobd user-name =shahbazminto23_db_user
 mongodb password=OVkBaOjohLqTZqvT
-mongodb+srv://shahbazminto23_db_user:<db_password>@cluster0.tsplytj.mongodb.net/?appName=Cluster0
+mongodb+srv://shahbazminto23_db_user:OVkBaOjohLqTZqvT@cluster0.tsplytj.mongodb.net/?appName=Cluster0
