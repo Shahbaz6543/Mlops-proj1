@@ -144,3 +144,11 @@
 mongobd user-name =shahbazminto23_db_user
 mongodb password=OVkBaOjohLqTZqvT
 mongodb+srv://shahbazminto23_db_user:OVkBaOjohLqTZqvT@cluster0.tsplytj.mongodb.net/?appName=Cluster0
+(vehicle) C:\Users\shahb\OneDrive\Desktop\Mlops_Project\Mlops-proj1>set MONGODB_URL=mongodb+srv://shahbazminto23_db_user:OVkBaOjohLqTZqvT@cluster0.xxxxx.mongodb.net/?retryWrites=true&w=majority
+'w' is not recognized as an internal or external command,
+operable program or batch file.
+
+$env:MONGODB_URL = "mongodb+srv://shahbazminto23:OVkBaOjohLqTZqvT
+set MONGODB_URL=mongodb+srv://shahbazminto23_db_user:OVkBaOjohLqTZqvT@cluster0.xxxxx.mongodb.net/?retryWrites=true&w=majority
+set "MONGODB_URL=mongodb+srv://shahbazminto23_db_user:OVkBaOjohLqTZqvT@your_cluster.mongodb.net/?retryWrites=true&w=majority"
+set "MONGODB_URL=mongodb+srv://shahbazminto23_db_user:OVkBaOjohLqTZqvT@cluster0.tsplytj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
