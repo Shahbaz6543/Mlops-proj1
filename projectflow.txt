@@ -141,10 +141,7 @@
         > type: Custom TCP > Port range: 5080 > 0.0.0.0/0 > Save rules
 33. Now paste the public ip address on the address bar +:5080 and your app will be launched.
 34. You can also do model training on /training route 
-mongobd user-name =shahbazminto23_db_user
-mongodb password=OVkBaOjohLqTZqvT
-mongodb+srv://shahbazminto23_db_user:OVkBaOjohLqTZqvT@cluster0.tsplytj.mongodb.net/?appName=Cluster0
-(vehicle) C:\Users\shahb\OneDrive\Desktop\Mlops_Project\Mlops-proj1>set MONGODB_URL=mongodb+srv://shahbazminto23_db_user:OVkBaOjohLqTZqvT@cluster0.xxxxx.mongodb.net/?retryWrites=true&w=majority
+
 'w' is not recognized as an internal or external command,
 operable program or batch file.
 
